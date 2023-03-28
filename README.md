@@ -9,6 +9,7 @@ Deployement of Nginx webpage in EC2 instance using AWS DevOps.
 5. Access management - IAM
 6. Artifact Storage - S3
 7. Deployed to - EC2 instance (Ubuntu)
+8. Webserver - Nginx
 
 ![image](https://user-images.githubusercontent.com/91592578/228168560-65a324fc-a2db-4d80-b6b1-c3f8a823cf50.png)
 
