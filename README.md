@@ -1,5 +1,5 @@
 # AWSDevOpsProject
-Deployement of Nginx webpage in EC2 instance using AWS DevOps.
+Deployment of Nginx webpage in EC2 instance using AWS DevOps.
 
 #### **Tools Used -->**
 1. Source Code Repository - Code Commit
